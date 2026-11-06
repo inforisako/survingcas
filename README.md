@@ -1,2 +1,3 @@
 # survivecas
-risako and lichi
+risako and LJ
+editing now
