@@ -2,5 +2,5 @@
 # survivecas
 risako and LJ
 risako and Iichi
-editing now
+RISAKO is editing now
 Portia has added her contribution.
