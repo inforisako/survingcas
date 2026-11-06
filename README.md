@@ -4,3 +4,4 @@ risako and LJ
 risako and Iichi
 Portia and Risako are editing now
 Portia has added her contribution.
+Risako is practising rebase.
