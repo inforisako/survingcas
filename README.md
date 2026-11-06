@@ -6,6 +6,4 @@ Portia and Risako are editing now
 Portia has added her contribution.
 Risako is practising rebase.
 Risako's second rebase practice.
-Development work will be integrated on develop.
-Risako is updating the development workflow.
- 
+4d43161d40cae547adb8609f2eb722de4a4eedbb
